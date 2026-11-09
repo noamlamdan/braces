@@ -1,0 +1,11 @@
+{
+  "name": "Getting braces",
+  "short_name": "Braces",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#F7EC45",
+  "theme_color": "#F7EC45",
+  "icons": [{ "src": "art/home-icon.png", "sizes": "512x512", "type": "image/png" }]
+}
